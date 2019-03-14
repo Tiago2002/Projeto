@@ -1,0 +1,19 @@
+body {
+    background-color: #334;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+ }
+.lista {
+    text-align: center;
+    background-color: #445;
+    padding: 3%;
+    border-radius: 10px;
+    margin-top: 1%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 3%;
+}
+.card {
+    margin: 2%;
+    display: inline-block;
+}

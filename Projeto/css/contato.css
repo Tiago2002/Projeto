@@ -1,0 +1,17 @@
+body{
+  background-color: #334;
+}
+.container-fluid{
+  color: white;
+  background-color: #445;
+  box-sizing:content-box;
+  width: 80ch;
+  padding: 3%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 7px;
+}
+.img-fluid {
+max-width:100%;
+height:auto;
+}

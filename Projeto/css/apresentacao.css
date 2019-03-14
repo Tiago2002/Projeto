@@ -1,0 +1,26 @@
+body {
+    background-color: #334;
+    color: #fff;
+}
+.container {
+    background-color: #445;
+    box-sizing: content-box;
+    width: 40%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding: 1.5em 2em;
+    border-radius: 7px;
+}    
+main p {
+    text-align: justify;
+    margin: 1em 0;
+}
+img{
+    border-radius: 3px;
+    margin-top: 2%;
+    margin-right: 2%;
+    height:300px;
+    width:200px; 
+}

@@ -1,0 +1,26 @@
+body {
+background-color:#334;
+}
+
+.container-fluid {
+color:#fff;
+}
+
+.container-fluid form {
+background-color:#445;
+border-radius:7px;
+margin: 5% 30% 3%;
+padding:3%;
+}
+
+.container-fluid form button {
+text-align:center;
+}
+
+#resposta {
+border-radius:7px;
+margin-left:30%;
+margin-right:30%;
+margin-bottom:3%;
+border-color:#334;
+}
