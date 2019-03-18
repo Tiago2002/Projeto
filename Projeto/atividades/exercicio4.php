@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
-    <link rel="stylesheet" type="text/css" href="css/atividades1.css">
+    <link rel="stylesheet" type="text/css" href="../css/atividades1.css">
 
     <title>Equação de 2 Grau</title>
 </head>
@@ -34,6 +34,7 @@
                     <input type="text" class="form-control" name="VarC" placeholder="Valor de C" required>
                 </div>
                 <button type="submit" class="btn btn-primary btn-lg btn-block" name="valor">Calcular</button>
+                <br /><a href="index.php" class="btn btn-outline-info"> Voltar </a>
             </form>
     </div>
         <?php

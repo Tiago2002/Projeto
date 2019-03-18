@@ -11,11 +11,32 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
-    <link rel="stylesheet" type="text/css" href="css/cards.css">
+    <link rel="stylesheet" type="text/css" href="../css/cards.css">
 
 </head>
 
 <body>
+    <!--Cabeçalho-->
+    <nav class="cabecalho">
+        <div class="logo">
+            <img src="../images/logoCA.png" />
+            <div class="pesquisar">
+                <form class="form-inline">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Pesquisar" aria-label="Pesquisar">
+                    <button class="btn btn-outline-light my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+                </form>
+            </div>
+        </div>
+        <div class="menu">
+            <ul>
+                <li> <a href="../index.php">Inicio</a> </li>
+                <li> <a href="../apresentacoes/index.php"> Sobre nós </a> </li>
+                <li> <a href="../atividades/index.php"> Atividades </a> </li>
+                <li> <a href="../contato/index.php"> Contato </a> </li>
+            </ul>
+        </div>
+    </nav>
+    <!--Fim do Cabeçalho-->
     <div class="lista">
         <div class="card" style="width: 18rem;">
             <div class="card-body">
@@ -35,7 +56,7 @@
         </div>
         <div class="card" style="width: 18rem;">
             <div class="card-body">
-                <h5 class="card-title">Salário</h5>
+                <h5 class="card-titl192.168.0.100e">Salário</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 3</h6>
                 <p class="card-text">Feito por Fernando.</p>
                 <a href="exercicio3.php" class="btn btn-outline-info">Ver o Exercicio</a>
@@ -89,8 +110,14 @@
                 <a href="exercicio9.php" class="btn btn-outline-info">Ver o Exercicio</a>
             </div>
         </div>
-        <a href="index.php" class="btn btn-outline-info">Voltar</a>
-    </div>
-</body>
+            <br /><a href="../index.php" class="btn btn-outline-info">Voltar</a>
+        </div>
+        <footer>
+            <div class="footer-copyright text-center py-3">© 2019 - 
+                <a href="http://eteccamargoaranha.com.br/"> Etec Professor Camargo Aranha</a> - Todos os direitos reservados.
+            </div>
+        </footer>
+
+    </body>
 
 </html>

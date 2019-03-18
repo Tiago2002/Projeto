@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
-    <link rel="stylesheet" type="text/css" href="css/atividades1.css">
+    <link rel="stylesheet" type="text/css" href="../css/atividades1.css">
 
     <title>Exercicio 3</title>
 </head>
@@ -25,7 +25,7 @@
                 <input type="text" class="form-control" name="reajuste" placeholder="Reajuste em %" required>
             </div>
             <button type="submit" class="btn btn-primary btn-lg btn-block" name="calcular">Calcular</button>
-            <br>
+            <br /><a href="index.php" class="btn btn-outline-info"> Voltar </a>
         </form>
     </div>
 

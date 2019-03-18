@@ -1,7 +1,7 @@
 body {
 height:100%;
 background-color:#334;
-font-family:Roboto, sans-serif;
+font-family:'Roboto', sans-serif;
 }
 
 .logo {
@@ -79,4 +79,13 @@ height:auto;
 footer {
 background-color:#4f5b93;
 bottom:0;
+}
+
+.text-center {
+    text-align: center!important;
+    color: white;
+}
+.text-center a {
+    color: #ddd;
+    text-decoration: none;
 }
