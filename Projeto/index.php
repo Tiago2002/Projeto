@@ -102,15 +102,17 @@
                 <p>Abaixo alguns motivos que eu considero relevante, mas que, claro, devem ser alinhados com os objetivos do seu projeto, a equipe que trabalhará nele etc.</p>
 
                 <h3>1). É a linguagem mais utilizada para web, cerca de 82% de todos os sites a utilizam:</h3>
-
+                
+                <br>
                 <img src="images/uso_do_php.jpg" class="img-fluid" alt="Tabela Uso do PHP">
-
-                <br/>
-
+                <br> <br> <br>
+                
                 <h3>2). Ela foi desenvolvida para a Web (isso é um fator de vantagem e competitividade para se manter no topo entre mais utilizadas);</h3>
-
+                
+                <br>
                 <img src="images/primeira_versaoPHP.jpg" class="img-fluid" alt="Primeira Versão PHP">
-
+                <br>
+                
                 <p>Isso pode ser observado no corpo do anúncio da primeira versão do PHP, postado em junho de 1995 no repositório Usenet newsgroup:</p>
 
                 <h3>3). O suporte à linguagem é constante. Todo ano teremos uma nova minor version até a chegada de alguma nova major version.</h3>
