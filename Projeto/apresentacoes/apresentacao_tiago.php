@@ -10,7 +10,7 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
       
-  <link rel="stylesheet" type="text/css" href="css/apresentacao.css">
+  <link rel="stylesheet" type="text/css" href="../css/apresentacao.css">
       
   </head>
   <body>
@@ -23,7 +23,7 @@
         <div class="container">
             
             <h1>Tiago Matos dos Santos</h1>
-            <img src="images/Tiago.jpg" alt="Tiago Matos" align="left" >           
+            <img src="../images/Tiago.jpg" alt="Tiago Matos" align="left" >           
             <p>Meu nome é <strong>Tiago Matos dos Santos</strong>, mas me chamam de “Tii” ou de “Tinhago”, tenho 17 Anos de idade, nasci em São Paulo no dia 14 de janeiro de 2002.</p>
           
             <p>Atualmente estou cursando o segundo semestre do curso “Técnico de Desenvolvimento de Sistemas” na <a href="http://eteccamargoaranha.com.br/" target="_blank">ETEC Professor Camargo Aranha</a>, no bairro da Mooca (SP).</p>
@@ -34,6 +34,8 @@
             <p> Como Hobbies, eu adotei video games, músicas, estudar qualquer coisa envolvida a ciências, e até mesmo programar. Eu gosto de resolver coisas difíceis, programar é uma delas.</p>
             
             <p>Sou ateu, porém respeito todas as religiões, desde que não seja usada para fins maliciosos. Para mim nao se deve rotular as pessoas apenas pela religião, mas sim respeitar todos os tipos de escolhas.</p>
+            
+            <a href="index.php" class="btn btn-primary">Voltar</a>
             
         </div>
     </main>      

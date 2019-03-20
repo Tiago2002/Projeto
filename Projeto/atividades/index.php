@@ -43,7 +43,7 @@
                 <h5 class="card-title">Troca de Variáveis</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 1</h6>
                 <p class="card-text"> Feito Por Gabriel.</p>
-                <a href="exercicio1.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio1.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -51,7 +51,7 @@
                 <h5 class="card-title">Exibir Dias</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 2 </h6>
                 <p class="card-text">Feito Por Fernando.</p>
-                <a href="exercicio2.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio2.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -59,7 +59,7 @@
                 <h5 class="card-titl192.168.0.100e">Salário</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 3</h6>
                 <p class="card-text">Feito por Fernando.</p>
-                <a href="exercicio3.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio3.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -67,7 +67,7 @@
                 <h5 class="card-title">Equação de 2° Grau</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 4</h6>
                 <p class="card-text">Feito Por Tiago.</p>
-                <a href="exercicio4.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio4.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -75,7 +75,7 @@
                 <h5 class="card-title">Maior e Menor valor</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 5</h6>
                 <p class="card-text">Feito Por Tiago.</p>
-                <a href="exercicio5.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio5.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -83,7 +83,7 @@
                 <h5 class="card-title">Times</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 6</h6>
                 <p class="card-text">Feito Por Gabriel.</p>
-                <a href="exercicio6.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio6.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -91,7 +91,7 @@
                 <h5 class="card-title">Caixa Eletrônico </h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 7</h6>
                 <p class="card-text">Feito Por Tiago.</p>
-                <a href="exercicio7.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio7.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -99,7 +99,7 @@
                 <h5 class="card-title">Tabuadas</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 8</h6>
                 <p class="card-text">Feito Por Fernando.</p>
-                <a href="exercicio8.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio8.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
@@ -107,10 +107,10 @@
                 <h5 class="card-title">Múltiplos de 3</h5>
                 <h6 class="card-subtitle mb-2 text-muted">Exercicio 9</h6>
                 <p class="card-text">Feito Por Gabriel.</p>
-                <a href="exercicio9.php" class="btn btn-outline-info">Ver o Exercicio</a>
+                <a href="exercicio9.php" class="btn btn-primary">Ver o Exercicio</a>
             </div>
         </div>
-            <br /><a href="../index.php" class="btn btn-outline-info">Voltar</a>
+            <br /><a href="../index.php" class="btn btn-primary">Voltar</a>
         </div>
         <footer>
             <div class="footer-copyright text-center py-3">© 2019 - 

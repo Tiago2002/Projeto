@@ -24,7 +24,7 @@
                     <input type="text" name="numDois" class="form-control" id="formGroupExampleInput2" placeholder="Varíavel B">
                   </div>
                    <button type="submit" name="troca" class="btn btn-primary btn-lg btn-block">Trocar</button>
-                   <br /><a href="index.php" class="btn btn-outline-info"> Voltar </a>
+                   <br /><a href="index.php" class="btn btn-primary btn-lg btn-block"> Voltar </a>
                 </form>
         </div>
 

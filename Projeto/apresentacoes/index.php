@@ -43,24 +43,24 @@
             <div class="card-body">
                 <h5 class="card-title">Fernando</h5>
                 <p class="card-text">Leia sobre Fernando, um dos integrantes do grupo</p>
-                <a href="apresentacao_fernando.php" class="btn btn-outline-info">Ler sobre</a>
+                <a href="apresentacao_fernando.php" class="btn btn-primary">Ler sobre</a>
             </div>
         </div>
         <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Gabriel</h5>
                 <p class="card-text">Leia sobre Gabriel, um dos integrantes do grupo</p>
-                <a href="apresentacao_gabriel.php" class="btn btn-outline-info">Ler sobre</a>
+                <a href="apresentacao_gabriel.php" class="btn btn-primary">Ler sobre</a>
             </div>
         </div>
         <div class="card">
             <div class="card-body">
                 <h5 class="card-title">Tiago</h5>
                 <p class="card-text">Leia sobre Tiago, um dos integrantes do grupo</p>
-                <a href="apresentacao_tiago.php" class="btn btn-outline-info">Ler sobre</a>
+                <a href="apresentacao_tiago.php" class="btn btn-primary">Ler sobre</a>
             </div>
         </div>
-        <br /><a href="../index.php" class="btn btn-outline-info"> Voltar </a>
+        <br /><a href="../index.php" class="btn btn-primary"> Voltar </a>
     </div>
     <footer class="container-fluid">
         <div class="footer-copyright text-center py-3">© 2019 - 

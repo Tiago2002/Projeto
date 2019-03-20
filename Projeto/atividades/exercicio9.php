@@ -18,7 +18,7 @@
         <div class="container-fluid">
             <form method="post">
                     <p class="text-center"> Multiplos de 3 </p>
-                <a href="index.php" class="btn btn-outline-info">Voltar</a>
+                <a href="index.php" class="btn btn-primary btn-lg btn-block">Voltar</a>
             </form>
         </div>
 

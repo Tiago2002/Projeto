@@ -10,7 +10,7 @@
 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
       
-  <link rel="stylesheet" type="text/css" href="css/apresentacao.css">
+  <link rel="stylesheet" type="text/css" href="../css/apresentacao.css">
         
       
   </head>
@@ -23,7 +23,7 @@
     <main>
         <div class="container">
             <h1>Fernando Gomes de Abreu Lião</h1>
-            <img src="images/Fernando.jpg" alt="Fernando Lião" align="left" >
+            <img src="../images/Fernando.jpg" alt="Fernando Lião" align="left" >
             <p>Meu nome é <strong>Fernando Gomes de Abreu Lião</strong>, mas muitos me chamam de Leão ou apenas Feh. Nascido na cidade de São Paulo, Estado de São Paulo, no sudeste do Brasil.</p>
 
             <p>Nascido no mês de julho de 1993, tenho 25 anos de idade, e estou cursando o segundo semestre do curso técnico de Desenvolvimento de Sistemas na <a href="http://eteccamargoaranha.com.br/" target="_blank">Etec Professor Camargo Aranha</a>, no bairro da Mooca.</p>
@@ -38,7 +38,7 @@
             
             <p>Tenho uma simples filosofia de vida, que é respeitar todos os tipos de pessoas, independente de classe, cor, credo ou opção sexual. Assim tento sempre aceitar as limitações do ser humano e saber reconhecer que a nossa ignorância pode nos ser útil como o principal sentido na obtenção das respostas, tão visadas nesta existência. A troca de informações é muito útil para a sociedade e para cada pessoa como indivíduo. Cada pessoa representa informações, experiências e vivências únicas. Aqueles que veem nas pessoas apenas mecanismos de aproveitamento levarão vidas vazias e frustrantes.</p>
 
-            <a href="index.php" class="btn btn-outline-info">Voltar</a>
+            <a href="index.php" class="btn btn-primary">Voltar</a>
     
         </div>
     </main>      

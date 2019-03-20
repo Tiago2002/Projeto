@@ -34,7 +34,7 @@
                     <input type="text" class="form-control" name="VarC" placeholder="Valor de C" required>
                 </div>
                 <button type="submit" class="btn btn-primary btn-lg btn-block" name="valor">Calcular</button>
-                <br /><a href="index.php" class="btn btn-outline-info"> Voltar </a>
+                <br /><a href="index.php" class="btn btn-primary btn-lg btn-block"> Voltar </a>
             </form>
     </div>
         <?php

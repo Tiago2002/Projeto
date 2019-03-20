@@ -80,7 +80,7 @@
                     </div>
 
                     <!-- Botão para acionar modal -->
-                    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#modalExemplo">
+                    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#modalExemplo">
                         Enviar
                     </button>
                 </form>

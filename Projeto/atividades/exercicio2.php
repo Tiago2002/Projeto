@@ -22,7 +22,7 @@
                 <input type="text" class="form-control" name="quantidadeDias" placeholder="Dias" required>
             </div>
             <button type="submit" class="btn btn-primary btn-lg btn-block" name="calcular">Calcular</button>
-            <br /><a href="index.php" class="btn btn-outline-info"> Voltar </a>
+            <br /><a href="index.php" class="btn btn-primary btn-lg btn-block"> Voltar </a>
         </form>
     </div>
 
@@ -37,12 +37,14 @@
         $strMes = " ";
         $strDia = " ";
 
+    
+
+        if(isset($_POST["calcular"])){ 
+            
         $ano = (int) ($quantidadeDias / $anoAux);
         $restoAno = $quantidadeDias - ($ano * $anoAux);
         $dias = $restoAno - ($mes * $mesAux);
         $mes = (int) ($restoAno / $mesAux);
-
-        if(isset($_POST["calcular"])){ 
 
         if ($ano == 1){
             $strAno = " ano, ";

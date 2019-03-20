@@ -39,8 +39,8 @@
                          <div class="form-group">
         				<input type="text" class="form-control" id="formGroupExampleInput" name="Num5" placeholder="Valor 5°">
       				</div>
-                  <button type="submit" class="btn btn-primary" name="Calcular">Calcular</button>
-                  <br /><a href="index.php" class="btn btn-outline-info"> Voltar </a>
+                  <button type="submit" class="btn btn-primary btn-lg btn-block" name="Calcular">Calcular</button>
+                  <br /><a href="index.php" class="btn btn-primary btn-lg btn-block"> Voltar </a>
             </form>
         </div>
     <?php

@@ -28,7 +28,7 @@
        			 <input type="text" class="form-control" id="formGroupExampleInput" name="Valor" placeholder="Valor">
       		 </div>
               <button type="submit" class="btn btn-primary btn-lg btn-block">Sacar</button>
-              <br /><a href="index.php" class="btn btn-outline-info"> Voltar </a>
+              <br /><a href="index.php" class="btn btn-primary btn-lg btn-block"> Voltar </a>
     	</form>
     </div>
     <?php
